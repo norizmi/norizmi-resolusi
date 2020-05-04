@@ -1,5 +1,7 @@
 Bisa membuat website sendiri
 Bisa membuat toko online
+ -bisa menggunakan ES6
+ -dan bisa banyak framework
 Bisa membuat aplikasi sendiri
 Bisa bekerja dengan senang
 Mempunyai tim yang solid
